@@ -2,3 +2,5 @@
 teste de versão 22/02/2024
 
 inserindo novas informações nesse arquivo
+verificando se houve modificações 
+foi inserido mais essa linha
